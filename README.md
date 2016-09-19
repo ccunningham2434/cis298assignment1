@@ -1,7 +1,7 @@
 # Assignment 1 - Your First Application and Introduction to Git
 ## Due 9-26-2016
 
-## Author
+## Author: Chad Cunningham
 
 ## Description
 
@@ -37,5 +37,6 @@ This application should be very similar to the first application in the book.
 | Total            | 100    |
 
 ## Outside Resources Used
-
+None
 ## Known Problems, Issues, And/Or Errors in the Program
+None
