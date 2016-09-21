@@ -6,5 +6,6 @@
     <string name="increment_button">+</string>
     <string name="decrement_button">-</string>
 
+    <string name="toast_message">"The counter is over 20!"</string>
 
 </resources>

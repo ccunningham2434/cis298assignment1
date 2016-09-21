@@ -57,7 +57,7 @@ public class CounterActivity extends AppCompatActivity {
         mCounterValue++;
         updateCounterView();
         if (mCounterValue == 21) {
-            Toast.makeText(this, "The counter is over 20!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, R.string.toast_message, Toast.LENGTH_SHORT).show();
         }
     }
     // >Decrement the counter.
